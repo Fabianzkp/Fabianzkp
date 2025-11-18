@@ -31,6 +31,7 @@ Tools	Visual Studio Code, Selenium IDE, pytest, Swagger UI, Render, Vercel, GitH
 
 ## Let's Connect!
 •	LinkedIn: https://www.linkedin.com/in/anana-ezikpe-02010591
+
 •	Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 
 
 
